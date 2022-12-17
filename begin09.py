@@ -9,3 +9,12 @@
 # Assign the result of that expression 'https://github.com/codeschool-2022A/variables_and_types#begin09' to variable 'k';
 
 # # Print the variable 'k'.
+
+a = int(8) # 8
+b = int(3) # 3
+c = int(2) # 2
+d = int(4) # 4
+
+k = (a - b) - (d - c) 
+
+print(k)  

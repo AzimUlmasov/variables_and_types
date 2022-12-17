@@ -7,3 +7,11 @@
 # Assign the result of that expression 'https://github.com/codeschool-2022A/variables_and_types#begin06' to variable 'k';
 
 # # Print the variable 'k'.
+
+a = int(input("Number a is: ")) # 24
+b = int(input("Number b is: ")) # 3
+c = int(input("Number c is: ")) # 5
+
+k = a - b + c
+
+print(k)
