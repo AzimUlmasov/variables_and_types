@@ -8,9 +8,9 @@
 
 # # Print the variable 'k'.
 
-a = int(input("Number a is: ")) # 24
-b = int(input("Number b is: ")) # 3
-c = int(input("Number c is: ")) # 5
+a = int(24) # 24
+b = int(3) # 3
+c = int(5) # 5
 
 k = a - b + c
 

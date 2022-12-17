@@ -4,8 +4,8 @@
 
 # Print sum of 'num_one' and 'num_two;
 
-num_one = int(input("Number one variable: "))
-num_two = int(input("Number sec variable: "))
+num_one = int(5)
+num_two = int(4)
 
 the_sum = num_one + num_two
 

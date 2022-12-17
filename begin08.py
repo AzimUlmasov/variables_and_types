@@ -8,9 +8,9 @@
 
 
 
-a = int(input("Number a is: ")) # 5
-b = int(input("Number b is: ")) # 4
-c = int(input("Number c is: ")) # 8
+a = int(5) # 5
+b = int(4) # 4
+c = int(8) # 8
 
 result = (a * b) / c 
 

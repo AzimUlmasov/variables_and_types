@@ -4,8 +4,8 @@
 
 # Print the difference between 'a' and 'b'.
 
-a = int(input("Number a is: ")) # 7
-b = int(input("Number b is: ")) # 3
+a = int(7) # 7
+b = int(3) # 3
 
 the_sum = a - b
 

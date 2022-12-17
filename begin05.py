@@ -6,9 +6,9 @@
 
 # Print the sum of three variables 'a', 'b', 'c';
 
-a = int(input(7) # 7
-b = int(input(3) # 3
-c = int(input(5) # 5
+a = int(7) # 7
+b = int(3) # 3
+c = int(5) # 5
 
 the_sum = a + b + c
 

@@ -6,9 +6,9 @@
 
 # Print the result of that expression 'https://github.com/codeschool-2022A/variables_and_types#begin07';  
 
-a = int(input("Number a is: ")) # 5
-b = int(input("Number b is: ")) # 4
-c = int(input("Number c is: ")) # 8
+a = int(5) # 5
+b = int(3) # 4
+c = int(8) # 8
 
 result = (a * 2) * (c / b)
 

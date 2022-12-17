@@ -15,6 +15,6 @@ b = int(4) # 3
 c = int(2) # 2
 d = int(8) # 4
 
-k = (a - b) / (d - c) * 2
+k = 2 * (a * b - d * c)
 
 print(k)  

@@ -4,8 +4,8 @@
 
 # Print the multiplicand 'a' and 'b'.
 
-a = int(input("Number a is: ")) # 6
-b = int(input("Number b is: ")) # 3
+a = int(6) # 6
+b = int(3) # 3
 
 the_sum = a * b
 

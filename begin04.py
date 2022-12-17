@@ -4,8 +4,8 @@
 
 # Print the division of a by b.
 
-a = int(input("Number a is: ")) # 12
-b = int(input("Number b is: ")) # 3
+a = int(12) # 12
+b = int(3) # 3
 
 the_sum = a / b
 
